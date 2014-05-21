@@ -2,7 +2,7 @@ LHTMDbClient
 ==============
 
 
-- LHTMDbClient is an iOS wrapper on top of AFNetworking to interact with [themoviedb.org](www.themoviedb.org) API.
+- LHTMDbClient is an iOS wrapper on top of AFNetworking to interact with [themoviedb.org](https://www.themoviedb.org/) API.
 - This project is forked from Javi Lorbada - [JLTMDbClient](https://github.com/JaviLorbada/JLTMDbClient)
 
 ## Installation: ##
@@ -85,7 +85,7 @@ If there are any questions please contact me.
 ## Credits: ##
 
 - Thanks to [Javi Lorbada](https://github.com/fjcaetano) and his project [JLTMDbClient](https://github.com/JaviLorbada/JLTMDbClient)
-- Thanks to [themoviedb.org](http://themoviedb.org) for the awesome API <3.
+- Thanks to [themoviedb.org](https://www.themoviedb.org/) for the awesome API <3.
 
 ## Contact: ##
 
