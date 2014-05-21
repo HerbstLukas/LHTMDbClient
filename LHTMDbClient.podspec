@@ -5,7 +5,7 @@ Pod::Spec.new do |s|
   s.homepage     = "https://github.com/HerbstLukas/LHTMDbClient"
   s.license      = { :type => "MIT", :file => "LICENSE" }
   s.author             = { "Lukas Herbst" => "lukas.herbst@me.com" }
-  s.social_media_url   = "http://twitter.com/Lukas Herbst"
+  s.social_media_url   = "http://twitter.com/HerbstLukas"
   s.platform     = :ios, "7.0"
   s.source       = { 
   					:git => "https://github.com/HerbstLukas/LHTMDbClient.git", 
