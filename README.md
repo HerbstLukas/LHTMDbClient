@@ -7,8 +7,15 @@ LHTMDbClient
 
 ## Installation: ##
 
-- The best way to get LHTMDbClient is by using [CocoaPods](http://cocoapods.org/). 
+- The best way to get LHTMDbClient is by using [CocoaPods](http://cocoapods.org/). <br>
+	(currently only via pod and the point to git availible because: "[!] Push access is currently disabled while we allow for owners to claim their Pods.") <br>
+```
+pod 'LHTMDbClient, git: => https://github.com/HerbstLukas/LHTMDbClient.git'
+```
 - [How to install CocoaPods](https://speakerdeck.com/javilorbada/introduction-to-cocoapods?slide=13)
+
+- Or you just clone this repository and add the LHTMDbClient folder to your project.
+
 
 ## Demo App:
 <br>
